@@ -13,4 +13,4 @@ O TaskTracker é uma aplicação de linha de comandos (CLI) que atua como um org
 1. Certifique-se de que tem o Python instalado na sua máquina.
 2. Abra o terminal e clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/tasktracker-projeto.git](https://github.com/SEU_USUARIO/tasktracker-projeto.git)
+   git clone [https://github.com/MarcioTdSJr/tasktracker-projeto.git](https://github.com/MarcioTdSJr/tasktracker-projeto.git)
