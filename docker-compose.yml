@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  tasktracker-app:
+    build: .
+    # Mantém o canal de entrada de dados aberto
+    stdin_open: true
+    # Aloca um terminal virtual, simulando seu console
+    tty: true
