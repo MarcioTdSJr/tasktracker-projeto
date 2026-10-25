@@ -14,3 +14,7 @@ O TaskTracker é uma aplicação de linha de comandos (CLI) que atua como um org
 2. Abra o terminal e clone o repositório:
    ```bash
    git clone [https://github.com/MarcioTdSJr/tasktracker-projeto.git](https://github.com/MarcioTdSJr/tasktracker-projeto.git)
+
+**Como construir a imagem:**
+```bash
+docker build -t tasktracker-app .
